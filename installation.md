@@ -56,7 +56,7 @@ Où il faut remplacer "username" par le votre
 
 ``` git add --all ```
 
-``` git commit-m "Initial commit" ```
+``` git commit -m "Initial commit" ```
 
 ``` git push -u origin master```
 
