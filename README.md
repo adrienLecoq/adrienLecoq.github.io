@@ -9,6 +9,6 @@ Lancez le serveur github avec la commande :
 
 ``` jekyll serve ```
 
-texte **gras**
+Avec l'explorateur de fichier, accédez à /Sites/monSite/username.github.io et ouvrez le fichier "index.html" avec un éditeur de texte
 
 ---
